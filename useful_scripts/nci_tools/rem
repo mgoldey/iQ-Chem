@@ -1,0 +1,4 @@
+$rem
+exchange hf
+basis 6-31G
+$end
